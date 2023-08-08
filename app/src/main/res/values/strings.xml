@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Walter White</string>
+    <string name="title">Associate Android Developer</string>
+    <string name="email">walter_white@breakingbad.com</string>
+    <string name="phone">+1 (234) 567-8910</string>
+    <string name="im">\@heisenberg</string>
+    <string name="location">Albuquerque, New Mexico</string>
+</resources>
